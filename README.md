@@ -1,9 +1,14 @@
 In this simulation a noisy communication line is examined.
 The communication system is supposed to work in a bandwidth of 100Hz using audio signals. However, typical audio systems are not designed to work well in in those low frequencies. Therefore, the data will be modulated to a higher frequency – 1.37KHz.
+
 The code consists of 3 parts:
+
 •	Transmitter.
+
 •	Noisy channel medium.
+
 •	Receiver.
+
 Further explanation:
 The transmitter works in the following way:
 •	Maps the info bits using BPSK mapping.
