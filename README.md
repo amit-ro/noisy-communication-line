@@ -14,6 +14,7 @@ The transmitter works in the following way:
 *	Modulates the signal to a higher frequency.
 
 The noisy channel just adds noise to the given data, the intensity of the noise can be tuned by the user.
+
 The receiver works in the following way:
 *	Demodulates the signal back to its original frequency.
 *	Appling low pass filter to reduce noises from the modulation.
