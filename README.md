@@ -3,11 +3,11 @@ The communication system is supposed to work in a bandwidth of 100Hz using audio
 
 The code consists of 3 parts:
 
-•	Transmitter.
+* Transmitter.
 
-•	Noisy channel medium.
+*	Noisy channel medium.
 
-•	Receiver.
+*	Receiver.
 
 Further explanation:
 The transmitter works in the following way:
