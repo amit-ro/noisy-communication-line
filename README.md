@@ -12,6 +12,7 @@ The transmitter works in the following way:
 *	Maps the info bits using BPSK mapping.
 *	Encodes the data using the chosen Nyquist pulse.
 *	Modulates the signal to a higher frequency.
+
 The noisy channel just adds noise to the given data, the intensity of the noise can be tuned by the user.
 The receiver works in the following way:
 *	Demodulates the signal back to its original frequency.
